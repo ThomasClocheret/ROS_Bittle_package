@@ -81,7 +81,7 @@ Deze package kan hier gedownload worden: https://github.com/ThomasClocheret/ROS_
 > Vergeet niet om gebruik te maken van je eigen model en de bittle_sender_hands_recog.py file aan te passen aan jouw unieke commando’s voor gebruik.
 > 
 
-# Stap 1 configuratie van de Arduino
+# Stap 2 configuratie van de Arduino
 
 Om de arduino te laten communiseren met de rasberri pi is er een update nodig van de code op het bordje. Dit kan gedaan worden aan de hand van [Arduino IDE](https://www.arduino.cc/en/software). De code kan op mijn GitHub Repo gevonden worden. Als board kan je Arduino Uno selecteren en de huidige USB port waarmee je verbonden bent. Vervolgens enkel op de upload knop duwen om up te loaden.
 
